@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 3" width="500" height="3">
+	<title>skills</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #d8d8d8 } 
+	</style>
+	<g id="skills">
+		<g id="content">
+			<g id="1">
+				<path id="rectangle2" class="s0" d="m0 0h500v3h-500v-3z" />
+			</g>
+		</g>
+	</g>
+</svg>
